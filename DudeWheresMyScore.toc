@@ -1,6 +1,8 @@
 ## Interface: 90207
 ## Title: Dude Where's My Score
 ## Notes: Show M+ Score gains on various UI Elements
-## Version: 0.6
+## Version: 0.7
 
+Core.lua
+UI.lua
 SlashCommands.lua
